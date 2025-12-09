@@ -45,7 +45,7 @@ The simulation executed 25 randomized transactions with a 100% pass rate.
 **Summary:**
 * **Total Transactions:** 25
 * **Passed:** 25
-* [cite_start]**Failed:** 0[cite: 48].
+
 
 **Sample Log Output:**
 ```text
