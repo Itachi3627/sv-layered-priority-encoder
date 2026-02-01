@@ -36,7 +36,7 @@ This project demonstrates a professional verification environment for an 8-bit p
 
 The testbench is designed following industry-standard layered verification methodology, making it modular, reusable, and scalable.
 
-**🔗 Try it live on EDA Playground:** [Link to your EDA Playground project]
+
 
 ---
 
